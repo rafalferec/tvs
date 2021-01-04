@@ -1,5 +1,4 @@
-{
-"FOOD_DATA" : [
+[
   {
     "league":"Premier League",
     "queue": "11",
@@ -55,4 +54,3 @@
     "tv": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWX7Hn8R14Zrpo25-DS0TMxgHuj_2B8akQMQ&usqp=CAU"
   }
 ]
-}
